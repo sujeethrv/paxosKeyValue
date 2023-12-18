@@ -15,7 +15,6 @@ Developed a fault-tolerant key-value store leveraging the Paxos protocol to ensu
 - Utilized RPC for communication between clients and servers, and among Paxos peers within servers.
 - Ensured data consistency and fault tolerance by integrating the Paxos algorithm into each server, keeping all replicas synchronized.
 - Addressed challenges such as duplicate client requests and server recovery to maintain system consistency.
-- Conducted extensive testing (`go test -v`) to ensure the system's robustness and reliability.
 - Debugged and resolved complex distributed system issues, including network partitions and server failures.
 
 #### Technical Stack:
