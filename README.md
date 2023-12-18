@@ -1,6 +1,4 @@
-# paxosKeyValue
-
-### Project Title: Fault-Tolerant Key-Value Store with Paxos Protocol
+# Fault-Tolerant Key-Value Store with Paxos Protocol
 
 #### Project Context:
 This project was developed as a part of a Distributed Systems course, focusing on implementing the Paxos consensus algorithm to create a robust and fault-tolerant key-value store. The project emphasized practical skills in building distributed systems with Go, including aspects of concurrency, and fault tolerance.
